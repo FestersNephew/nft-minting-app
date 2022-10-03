@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
-  "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
+  "CONTRACT_ADDRESS": "0x20737E0D9Cf43cc471b4A2aEA69CBfD034fE9F04",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0x20737e0d9cf43cc471b4a2aea69cbfd034fe9f04",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "goerli",
+    "SYMBOL": "ETH",
+    "ID": 5
   },
-  "NFT_NAME": "The Stripes NFT",
-  "SYMBOL": "TSNFT",
-  "MAX_SUPPLY": 992,
-  "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 4,
-  "GAS_LIMIT": 285000,
+  "NFT_NAME": "GnomebassadorsV3",
+  "SYMBOL": "GNM",
+  "MAX_SUPPLY": 500,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.001,
+  "GAS_LIMIT": 210000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/gnombassadorsv3",
   "SHOW_BACKGROUND": true
 }
