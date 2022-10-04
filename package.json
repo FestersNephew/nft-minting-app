@@ -1,7 +1,7 @@
 {
-  "name": "the_stripes_nft_dapp",
+  "name": "Gnombassadors",
   "version": "1.0.0",
-  "description": "The Stripes NFT minting dapp is a quick and easy way to connect your smart contract and start minting NFTs.",
+  "description": "The Gnombassadors minting dApp is your home to mint the latest Gnomie Community Projects.",
   "private": true,
   "dependencies": {
     "chokidar": "^3.5.3",
@@ -16,8 +16,9 @@
     "web3": "^1.5.1",
     "web3-eth-contract": "^1.5.2"
   },
-  "author": "Ali Solanki, Daniel Eugene Botha",
+  "author": "FestersNephew",
   "license": "MIT",
+  "homepage": "https://mintgnome.netlify.app/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build"
